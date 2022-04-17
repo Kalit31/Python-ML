@@ -25,4 +25,4 @@ Started with machine learning!
 * An application to classify movie-reviews between positive and negative
 
 ## Study resource
-[Beginner Machine Learning,Deep Learning and Atificial tutorials](https://www.youtube.com/watch?v=JMUxmLyrhSk)
+[Beginner Machine Learning, Deep Learning and Artificial Intelligence tutorials](https://www.youtube.com/watch?v=JMUxmLyrhSk)
